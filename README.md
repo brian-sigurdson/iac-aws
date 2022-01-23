@@ -1,5 +1,5 @@
 # project-aws-infrastructure-as-code
-Implementing infrastructure as code in AWS with various tools / technologies.  Overtime, I would like to implement my work, using the following tools and technologies:
+A personal development project to provision infrastructure as code in AWS.  Overtime, I would like to implement this project using the following tools and technologies:
 * CloudFormation
 * Terraform
 * Ansible
@@ -7,6 +7,5 @@ Implementing infrastructure as code in AWS with various tools / technologies.  O
 * Go
 * Bash
 * PowerShell
-* Java
 
-The repository is for personal use and professional development..
+The repository is for personal use and professional development.
